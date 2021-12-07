@@ -6,7 +6,7 @@
 ### Required Files
 
 - cloned bullet3 repository (https://github.com/bulletphysics/bullet3)
-- DockerFile (included in the zip file)
+- DockerFile (included with this README)
 
 ### Setting up the development environment
 
