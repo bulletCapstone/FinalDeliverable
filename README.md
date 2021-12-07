@@ -9,7 +9,7 @@ there is a data structure known as a BVH Tree that lacks multithreaded support. 
 by changing the data strucutre or adding multithreaded support. In our first year we were not able to complete this so we have compiled what we were able to complete 
 in this repository. 
 
-## Environment Setups
+## Environment Setup
 The environment setup folder is a jump start guide on how to build bullet from the original repository and how to setup a Docker container to have a consistent environment among teammates. Start here.
 
 ## Executables
