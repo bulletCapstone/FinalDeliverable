@@ -137,7 +137,7 @@ void btDbvt::printTree(btDbvt* pdbvt)
 ```
 
 ####  visualizer.py
-- visulizer.py converts the trees from DOT language into png files and creates a video from the png files created
+- visualizer.py converts the trees from DOT language into png files and creates a video from the png files created
 ```py
     import graphviz #used to create png files of the graphs written in DOT language
     import sys, subprocess
