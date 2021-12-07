@@ -68,3 +68,42 @@ After setting up GDB I recommend running the program in GDB in `layout src` to f
 
 If you have any issues getting the Linked List to work or 
 
+
+
+
+
+
+
+Name: Jared Lee
+email: jrl222@lehigh.edu
+
+# Benchmarking
+
+
+    Goal: Find the code that would determine the performance of the data and runtime.
+          Once code was altered, the benchmark would be run comparatively to that of the original 
+          bullet code.
+
+    This was going to be achieved with the CProfiler.
+
+    To find the CProfile code, it is located in 
+    src/LinearMaths/btQuickProf.h
+
+    In that section of code, there are functions all related to the Cprofiler.
+    The specific function that was attempted was the CprofileManager::dumpAll() function.
+
+    This section would have been used with a simulation to tell the preformance and runtime of the bullet code. 
+    An altered version would have been tested along with the original bullet code to determine changes in speed.
+
+# Concurrent Data
+    Goal: Find concurrency within the code of bullet
+
+
+    There are files within examples that contain information multithreading as well as demo within the 
+    examples folder.
+        - examples/MultiThreading
+    I had a bit of difficulty being able to make use of those. 
+
+    Suggestion was made through looking into OpenCL code that are online for sources on multithreading.
+    There are also files on OpenCL within the examples folder:
+        - examples/OpenCL
