@@ -1,5 +1,5 @@
 # Concurrent Data Structures for 3d Simulation
-Jefferson Van Buskirk jef@lehigh.edu, Ji Ho Choi jic518@lehigh.edu, Jared Leejrl222@lehigh.edu
+Jefferson Van Buskirk jef@lehigh.edu, Ji Ho Choi jic518@lehigh.edu, Jared Lee jrl222@lehigh.edu
 
 
 
